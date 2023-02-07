@@ -13,7 +13,5 @@ public class App {
         // [1,2] 的区间和
         int sum = preSum.query(1,2);
         System.out.println("App.main: " +sum);
-
     }
 }
-
