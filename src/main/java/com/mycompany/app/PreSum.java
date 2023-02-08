@@ -1,6 +1,6 @@
 package com.mycompany.app;
 
-public class PreSum<T> {
+public class PreSum {
     private final int[] preSum;
     private final int[] arr;
 
